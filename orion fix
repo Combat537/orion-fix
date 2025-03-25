@@ -3230,7 +3230,7 @@ function library:Loader(options)
     utility.format(options);
 
     utility.defaults(options, {
-        title = "Exodus",
+        title = "Ui",
         description = "Loading...",
         percentage = 50,
         date = "16/01/22",
